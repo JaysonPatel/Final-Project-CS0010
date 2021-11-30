@@ -8,3 +8,6 @@
   A dataset containing every fire incident by neighborhood.
 #### Pittsburgh Playground Equipment (https://data.wprdc.org/datastore/dump/e39ef76e-0a11-47c8-a86f-a37f55db7a2b)
   A dataset containing all playground equipment by neighborhood and if it is ADA accessable.
+
+### Abstract
+The goal of this final project is to find the best neighborhood in Pittsburgh by manipulating CSV datasets.  Our group decided to pick the above datasets because they reflect a neighborhoods safety and accessability to people from different walks of life.  The best and safest neighborhood must have low amounts of arrests and fires while having a large amount of ADA accessable playground equipment.  We believe that through these metrics, we were able to find the best neighborhood in Pittsburgh.
